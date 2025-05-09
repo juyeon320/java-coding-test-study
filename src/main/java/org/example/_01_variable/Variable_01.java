@@ -1,4 +1,4 @@
-package org.example;
+package org.example._01_variable;
 
 public class Variable_01 {
     public static void main (String[] args){
