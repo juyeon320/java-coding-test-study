@@ -1,6 +1,6 @@
 package org.example;
 
-public class Variable{
+public class Variable_01 {
     public static void main (String[] args){
         int hour = 3;
         int minute = 5;
