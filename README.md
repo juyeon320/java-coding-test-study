@@ -27,7 +27,7 @@
 - [조건문과 반복문](https://github.com/juyeon320/java-coding-test-study/blob/main/java_study/02_%EC%A1%B0%EA%B1%B4%EB%AC%B8%EA%B3%BC%20%EB%B0%98%EB%B3%B5%EB%AC%B8.md)
 - [참조타입과 참조변수](https://github.com/juyeon320/java-coding-test-study/blob/main/java_study/03_%EC%B0%B8%EC%A1%B0%ED%83%80%EC%9E%85%EA%B3%BC%20%EC%B0%B8%EC%A1%B0%EB%B3%80%EC%88%98.md)
 - [배열](https://github.com/juyeon320/java-coding-test-study/blob/main/java_study/04_%EB%B0%B0%EC%97%B4.md)
-- [열거타입] (https://github.com/juyeon320/java-coding-test-study/blob/main/java_study/05_%EC%97%B4%EA%B1%B0%ED%83%80%EC%9E%85.md)
+- [열거타입](https://github.com/juyeon320/java-coding-test-study/blob/main/java_study/05_%EC%97%B4%EA%B1%B0%ED%83%80%EC%9E%85.md)
 
 ## ❤️til❤️
 [❤️til❤️](https://github.com/juyeon320/java-coding-test-study/tree/main/til)
@@ -39,7 +39,8 @@
 ----------------------------------------------------
 ## 🍒 Study Plan 🍒
 - 5/7~ 5/9 : 자바 기본 문법 공부
-- 5/14 ~ 5:21 카테부2기 초급문제집 풀이
+- 5/14 ~ 5/21 : 카테부2기 초급문제집 풀이
+- 5/21 ~ 카테부2기 중급문제집 풀이
 
 ----------------------------------------------------
 ## 🏅goal
