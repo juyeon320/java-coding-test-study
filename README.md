@@ -22,6 +22,11 @@
 - [11654](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon/_11654.java)
 - [31403](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon/_31403.java)
 
+5월 15일에 푼 문제
+- [3003]()
+- [1264]()
+
+
 ## 📌 Java 문법 기초
 - [변수와 자료형](https://github.com/juyeon320/java-coding-test-study/blob/main/java_study/01_%EB%B3%80%EC%88%98%EC%99%80_%EC%9E%90%EB%A3%8C%ED%98%95.md)
 - [조건문과 반복문](https://github.com/juyeon320/java-coding-test-study/blob/main/java_study/02_%EC%A1%B0%EA%B1%B4%EB%AC%B8%EA%B3%BC%20%EB%B0%98%EB%B3%B5%EB%AC%B8.md)
