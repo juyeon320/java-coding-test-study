@@ -12,7 +12,7 @@
 ## 🌸Baekjun
 [Baekjun](https://github.com/juyeon320/java-coding-test-study/tree/main/src/main/java/baekjoon)
 
-5월 14일에 푼 문제 
+5월 14일에 푼 문제 (8)
 - [1152](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon/_1152.java)
 - [2439](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon/_2439.java)
 - [2675](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon/_2675.java)
@@ -22,9 +22,15 @@
 - [11654](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon/_11654.java)
 - [31403](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon/_31403.java)
 
-5월 15일에 푼 문제
+5월 15일에 푼 문제 (7)
 - [3003]()
 - [1264]()
+- [25314]()
+- [24723]()
+- [5338]()
+- [4999]()
+- [16676]()
+
 
 
 ## 📌 Java 문법 기초
@@ -37,7 +43,7 @@
 ## ❤️til❤️
 [❤️til❤️](https://github.com/juyeon320/java-coding-test-study/tree/main/til)
 - [5월 14일 til](https://github.com/juyeon320/java-coding-test-study/blob/main/til/5_14_til.md)
-- 
+- [5월 15일 til](https://github.com/juyeon320/java-coding-test-study/blob/main/til/5_15_til.md)
 ## 🤍알고리즘 노트🤍
 - [🤍알고리즘 노트🤍]()
 
