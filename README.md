@@ -23,13 +23,13 @@
 - [31403](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon/_31403.java)
 
 5월 15일에 푼 문제 (7)
-- [3003]()
-- [1264]()
-- [25314]()
-- [24723]()
-- [5338]()
-- [4999]()
-- [16676]()
+- [3003](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon/_3003.java)
+- [1264](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon/_1264.java)
+- [25314](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon/_25314.java)
+- [24723](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon/_24723.java)
+- [5338](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon/_5338.java)
+- [4999](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon/_4999.java)
+- [16676](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon/_16676.java)
 
 
 
