@@ -31,7 +31,7 @@
 - [4999](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon/_4999.java)
 - [16676](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon/_16676.java)
 
-5월 16일에 푼 문제 ()
+5월 16일에 푼 문제 (8)
 - [27433](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon/_27433.java)
 - [15727](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon/_15727.java)
 - [25372](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon/_25372.java)
@@ -40,7 +40,7 @@
 - [2752](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon/_2752.java)
 - [15439](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon/_15439.java)
 - [10101](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon/_10101.java)
-
+- [10989](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon/_10989.java)
 
 ## 📌 Java 문법 기초
 - [변수와 자료형](https://github.com/juyeon320/java-coding-test-study/blob/main/java_study/01_%EB%B3%80%EC%88%98%EC%99%80_%EC%9E%90%EB%A3%8C%ED%98%95.md)
