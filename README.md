@@ -31,6 +31,15 @@
 - [4999](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon/_4999.java)
 - [16676](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon/_16676.java)
 
+5월 16일에 푼 문제 ()
+- [27433]()
+- [15727]()
+- [25372]()
+- [24262]()
+- [14681]()
+- [2752]()
+- [15439]()
+- [10101]()
 
 
 ## 📌 Java 문법 기초
