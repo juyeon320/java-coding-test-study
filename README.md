@@ -31,7 +31,7 @@
 - [4999](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon/_4999.java)
 - [16676](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon/_16676.java)
 
-5월 16일에 푼 문제 (8)
+5월 16일에 푼 문제 (9)
 - [27433](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon/_27433.java)
 - [15727](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon/_15727.java)
 - [25372](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon/_25372.java)
@@ -53,6 +53,7 @@
 [❤️til❤️](https://github.com/juyeon320/java-coding-test-study/tree/main/til)
 - [5월 14일 til](https://github.com/juyeon320/java-coding-test-study/blob/main/til/5_14_til.md)
 - [5월 15일 til](https://github.com/juyeon320/java-coding-test-study/blob/main/til/5_15_til.md)
+- [5월 16일 til](https://github.com/juyeon320/java-coding-test-study/blob/main/til/5_16_til.md)
 ## 🤍알고리즘 노트🤍
 - [🤍알고리즘 노트🤍]()
 
