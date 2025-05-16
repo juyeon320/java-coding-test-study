@@ -32,14 +32,14 @@
 - [16676](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon/_16676.java)
 
 5월 16일에 푼 문제 ()
-- [27433]()
-- [15727]()
-- [25372]()
-- [24262]()
-- [14681]()
-- [2752]()
-- [15439]()
-- [10101]()
+- [27433](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon/_27433.java)
+- [15727](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon/_15727.java)
+- [25372](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon/_25372.java)
+- [24262](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon/_24262.java)
+- [14681](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon/_14681.java)
+- [2752](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon/_2752.java)
+- [15439](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon/_15439.java)
+- [10101](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon/_10101.java)
 
 
 ## 📌 Java 문법 기초
