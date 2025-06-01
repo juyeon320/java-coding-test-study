@@ -91,12 +91,19 @@
 - [25501](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon/_25501.java)
 - [3052](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon/_3052.java)
 
-5월 29일에 푼 문제 ()
+5월 29일에 푼 문제 (4)
 - [2745]()
 - [1009]()
 - [2231]()
 - [15829]()
 
+6월 1일에 푼 문제 (3)
+- [7785]()
+- [10814]()
+- [1251]()
+
+6월 2일에 풀 문제 ()
+목표 : 16208 , 9649, 2941, 2563, 30648
 
 ## 📌 Java 문법 기초
 - [변수와 자료형](https://github.com/juyeon320/java-coding-test-study/blob/main/java_study/01_%EB%B3%80%EC%88%98%EC%99%80_%EC%9E%90%EB%A3%8C%ED%98%95.md)
