@@ -92,38 +92,44 @@
 - [3052](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon/_3052.java)
 
 5월 29일에 푼 문제 (4)
-- [2745]()
-- [1009]()
-- [2231]()
-- [15829]()
+- [2745](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon/_2745.java)
+- [1009](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon/_1009.java)
+- [2231](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon/_2231.java)
+- [15829](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon/_15829.java)
 
 6월 1일에 푼 문제 (3)
-- [7785]()
-- [10814]()
-- [1251]()
+- [7785](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon2/_7785.java)
+- [10814](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon2/_10814.java)
+- [1251](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon2/_1251.java)
 
 6월 2일에 푼 문제 (3)
-- [16208]()
-- [2563]()
-- [2941]()
+- [16208](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon2/_16208.java)
+- [2563](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon2/_2563.java)
+- [2941](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon2/_2941.java)
 
 6월 5일에 푼 문제 (1)
-- [30648]()
+- [30648](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon2/_30648.java)
 
 6월 6일에 푼 문제 (3)
-- [1543]()
-- [13241]()
-- [2740]()
+- [1543](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon2/_1543.java)
+- [13241](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon2/_13241.java)
+- [2740](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon2/_2740.java)
 
 6월 11일에 푼 문제 (3)
-- [28702]()
-- [28278]()
-- [10845]()
+- [28702](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon2/_28702.java)
+- [28278](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon2/_28278.java)
+- [10845](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon2/_10845.java)
 
 6월 13일에 푼 문제 (3)
-- [1764]()
-- [11047]()
-- [1620]()
+- [1764](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon2/_1764.java)
+- [11047](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon2/_11047.java)
+- [1620](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon2/_1620.java)
+
+6월 14일에 푼 문제 (4)
+- [17219](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon2/_17219.java)
+- [9012](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon2/_9012.java)
+- [28279](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon2/_28279.java)
+- [11866](https://github.com/juyeon320/java-coding-test-study/blob/main/src/main/java/baekjoon2/_11866.java)
 
 ## 📌 Java 문법 기초
 - [변수와 자료형](https://github.com/juyeon320/java-coding-test-study/blob/main/java_study/01_%EB%B3%80%EC%88%98%EC%99%80_%EC%9E%90%EB%A3%8C%ED%98%95.md)
@@ -133,27 +139,37 @@
 - [열거타입](https://github.com/juyeon320/java-coding-test-study/blob/main/java_study/05_%EC%97%B4%EA%B1%B0%ED%83%80%EC%9E%85.md)
 
 ## ❤️til❤️
-[❤️til❤️](https://github.com/juyeon320/java-coding-test-study/tree/main/til)
-- [5월 14일 til](https://github.com/juyeon320/java-coding-test-study/blob/main/til/5_14_til.md)
-- [5월 15일 til](https://github.com/juyeon320/java-coding-test-study/blob/main/til/5_15_til.md)
-- [5월 16일 til](https://github.com/juyeon320/java-coding-test-study/blob/main/til/5_16_til.md)
-- [5월 19일 til](https://github.com/juyeon320/java-coding-test-study/blob/main/til/5_19_til.md)
-- [5월 22일 til](https://github.com/juyeon320/java-coding-test-study/blob/main/til/5_22_til.md)
-- [5월 25일 til](https://github.com/juyeon320/java-coding-test-study/blob/main/til/5_25_til.md)
-- [5월 26일 til](https://github.com/juyeon320/java-coding-test-study/blob/main/til/5_26_til.md)
-- [5월 27일 til](https://github.com/juyeon320/java-coding-test-study/blob/main/til/5_27_til.md)
-- [5월 28일 til](https://github.com/juyeon320/java-coding-test-study/blob/main/til/5_28_til.md)
+[❤️til❤️](https://github.com/juyeon320/java-coding-test-study/tree/main/til_5%EC%9B%94)
+- [5월 14일 til](https://github.com/juyeon320/java-coding-test-study/blob/main/til_5%EC%9B%94/5_14_til.md)
+- [5월 15일 til](https://github.com/juyeon320/java-coding-test-study/blob/main/til_5%EC%9B%94/5_15_til.md)
+- [5월 16일 til](https://github.com/juyeon320/java-coding-test-study/blob/main/til_5%EC%9B%94/5_16_til.md)
+- [5월 19일 til](https://github.com/juyeon320/java-coding-test-study/blob/main/til_5%EC%9B%94/5_19_til.md)
+- [5월 22일 til](https://github.com/juyeon320/java-coding-test-study/blob/main/til_5%EC%9B%94/5_22_til.md)
+- [5월 25일 til](https://github.com/juyeon320/java-coding-test-study/blob/main/til_5%EC%9B%94/5_25_til.md)
+- [5월 26일 til](https://github.com/juyeon320/java-coding-test-study/blob/main/til_5%EC%9B%94/5_26_til.md)
+- [5월 27일 til](https://github.com/juyeon320/java-coding-test-study/blob/main/til_5%EC%9B%94/5_27_til.md)
+- [5월 28일 til](https://github.com/juyeon320/java-coding-test-study/blob/main/til_5%EC%9B%94/5_28_til.md)
+- [5월 29일 til](https://github.com/juyeon320/java-coding-test-study/blob/main/til_5%EC%9B%94/5_29_til.md)
 
+[🩷til🩷](https://github.com/juyeon320/java-coding-test-study/tree/main/til_6%EC%9B%94)
+- [6월 1일 til](https://github.com/juyeon320/java-coding-test-study/blob/main/til_6%EC%9B%94/6_1_til.md)
+- [6월 2일 til](https://github.com/juyeon320/java-coding-test-study/blob/main/til_6%EC%9B%94/6_2_til.md)
+- [6월 6일 til](https://github.com/juyeon320/java-coding-test-study/blob/main/til_6%EC%9B%94/6_6_til.md)
+- [6월 14일 til](https://github.com/juyeon320/java-coding-test-study/blob/main/til_6%EC%9B%94/6_14_til.md)
 
 ## 🤍알고리즘 노트🤍
-- [DP]()
+- [DP](https://github.com/juyeon320/java-coding-test-study/blob/main/java_study/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_DP.md)
+- [HashMap]()
+- [Stack]()
+- [Deque]()
 
 ----------------------------------------------------
 ## 🍒 Study Plan 🍒
 - 5/7~ 5/9 : 자바 기본 문법 공부
 - 5/14 ~ 5/29 : 카테부2기 초급문제집 풀이
-- 5/29 ~ 카테부2기 중급문제집 풀이
+- 6/1 ~ 카테부2기 중급문제집 풀이
 
 ----------------------------------------------------
 ## 🏅goal
-- 5월 21일까지 초급 문제집 모두 풀기 
+- 5월 29일까지 초급 문제집 모두 풀기 
+- 6월 30일까지 중급 문제집 모두 풀기
