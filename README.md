@@ -158,10 +158,10 @@
 - [6월 14일 til](https://github.com/juyeon320/java-coding-test-study/blob/main/til_6%EC%9B%94/6_14_til.md)
 
 ## 🤍알고리즘 노트🤍
-- [DP](https://github.com/juyeon320/java-coding-test-study/blob/main/java_study/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_DP.md)
-- [HashMap]()
-- [Stack]()
-- [Deque]()
+- [DP](https://github.com/juyeon320/java-coding-test-study/blob/main/java_study/06_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_DP.md)
+- [HashMap](https://github.com/juyeon320/java-coding-test-study/blob/main/java_study/07_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_HashMap.md)
+- [Stack](https://github.com/juyeon320/java-coding-test-study/blob/main/java_study/08_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_stack.md)
+- [Deque](https://github.com/juyeon320/java-coding-test-study/blob/main/java_study/09_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_Deque.md)
 
 ----------------------------------------------------
 ## 🍒 Study Plan 🍒
